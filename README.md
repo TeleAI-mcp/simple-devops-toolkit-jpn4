@@ -1,2 +1,3 @@
-# simple-devops-toolkit-jpn4
-A DevOps automation toolkit for modern development workflows
+# Simple Devops Toolkit Jpn4
+
+A DevOps automation toolkit for modern development workflows.
